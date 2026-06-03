@@ -39,7 +39,7 @@ ivy-phonics/
 
 1. 開啟瀏覽器，前往 **https://github.com**
 2. 點右上角 **Sign up**
-3. 輸入 Email、密碼、使用者名稱（例如：`ivy-mom`）
+3. 輸入 Email、密碼、使用者名稱（例如：`mom`）
 4. 完成 Email 驗證
 
 ---
