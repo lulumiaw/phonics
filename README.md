@@ -1,6 +1,6 @@
-# 🌟 Ivy's Phonics Adventure 自然發音樂園
+# 🌟Ck Phonics Adventure 自然發音
 
-基於 **Ivy's English Logic Insights 74音組體系**製作的互動式自然發音學習網站。
+基於 **English Logic Insights 74音組體系**製作的互動式自然發音學習網站。
 
 - 📚 **24 課** · 完整涵蓋 74 個音組
 - 🔊 **點擊發音**（瀏覽器內建語音，不需 API）
@@ -14,7 +14,7 @@
 ## 📁 檔案結構
 
 ```
-ivy-phonics/
+phonics/
 ├── index.html              ← 主選單（首頁）
 ├── css/
 │   └── style.css           ← 全站共用樣式
@@ -47,8 +47,8 @@ ivy-phonics/
 ### 第二步：建立新的 Repository（資料夾）
 
 1. 登入後，點右上角 **＋** → **New repository**
-2. **Repository name** 填入：`ivy-phonics`
-   > ⚠️ 名稱很重要！之後網址會是 `https://你的帳號.github.io/ivy-phonics`
+2. **Repository name** 填入：`phonics`
+   > ⚠️ 名稱很重要！之後網址會是 `https://你的帳號.github.io/phonics`
 3. 選 **Public**（公開，這樣才能免費啟用網站）
 4. 勾選 **Add a README file**
 5. 點綠色按鈕 **Create repository**
@@ -59,7 +59,7 @@ ivy-phonics/
 
 1. 進入剛建立的 repository 頁面
 2. 點 **Add file** → **Upload files**
-3. 將整個 `ivy-phonics` 資料夾的**所有內容**拖曳進去
+3. 將整個 `phonics` 資料夾的**所有內容**拖曳進去
    > 注意：要上傳**資料夾內的東西**，不是資料夾本身。
    > 需要依序上傳：先上傳 `index.html`、`README.md`，
    > 再分別上傳 `css/`、`js/`、`lessons/` 三個資料夾
@@ -87,7 +87,7 @@ ivy-phonics/
 5. 點 **Save**
 6. 等 1–2 分鐘，頁面上方會出現綠色訊息和網址：
    ```
-   Your site is published at https://你的帳號.github.io/ivy-phonics/
+   Your site is published at https://你的帳號.github.io/phonics/
    ```
 
 ---
@@ -128,4 +128,4 @@ ivy-phonics/
 
 ---
 
-*Made with ❤️ for Ivy · Based on Ivy's English Logic Insights*
+*Made with ❤️ for ck · Based on English Logic Insights*
