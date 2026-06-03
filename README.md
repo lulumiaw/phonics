@@ -47,7 +47,7 @@ ivy-phonics/
 ### 第二步：建立新的 Repository（資料夾）
 
 1. 登入後，點右上角 **＋** → **New repository**
-2. **Repository name** 填入：`ivy-phonics`
+2. **Repository name** 填入：`phonics`
    > ⚠️ 名稱很重要！之後網址會是 `https://你的帳號.github.io/phonics`
 3. 選 **Public**（公開，這樣才能免費啟用網站）
 4. 勾選 **Add a README file**
